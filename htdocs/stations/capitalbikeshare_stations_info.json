@@ -1,0 +1,2221 @@
+[
+    {
+        "st_id": 31000,
+        "st_name": "20th & Bell St",
+        "st_lat": 38.8561,
+        "st_long": -77.0512,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 31001,
+        "st_name": "18th & Eads St.",
+        "st_lat": 38.85725,
+        "st_long": -77.05332,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 31002,
+        "st_name": "20th & Crystal Dr",
+        "st_lat": 38.8564,
+        "st_long": -77.0492,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31003,
+        "st_name": "15th & Crystal Dr",
+        "st_lat": 38.86017,
+        "st_long": -77.049593,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 31004,
+        "st_name": "Aurora Hills Community Ctr/18th & Hayes St",
+        "st_lat": 38.857866,
+        "st_long": -77.05949,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 31005,
+        "st_name": "12th & Hayes St / Pentagon City Metro",
+        "st_lat": 38.862303,
+        "st_long": -77.059936,
+        "st_capacity": 19
+    },
+    {
+        "st_id": 31006,
+        "st_name": "S Joyce & Army Navy Dr",
+        "st_lat": 38.8637,
+        "st_long": -77.0633,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 31007,
+        "st_name": "Crystal City Metro / 18th & Bell St",
+        "st_lat": 38.8573,
+        "st_long": -77.0511,
+        "st_capacity": 19
+    },
+    {
+        "st_id": 31008,
+        "st_name": "12th & Army Navy Dr",
+        "st_lat": 38.8629,
+        "st_long": -77.0528,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 31009,
+        "st_name": "27th & Crystal Dr",
+        "st_lat": 38.848441,
+        "st_long": -77.051516,
+        "st_capacity": 19
+    },
+    {
+        "st_id": 31010,
+        "st_name": "S Glebe & Potomac Ave",
+        "st_lat": 38.8426,
+        "st_long": -77.0502,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 31011,
+        "st_name": "23rd & Crystal Dr",
+        "st_lat": 38.8533,
+        "st_long": -77.0498,
+        "st_capacity": 17
+    },
+    {
+        "st_id": 31012,
+        "st_name": "26th & S Clark St",
+        "st_lat": 38.850688,
+        "st_long": -77.05152,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 31100,
+        "st_name": "19th St & Pennsylvania Ave NW",
+        "st_lat": 38.9003,
+        "st_long": -77.0429,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31101,
+        "st_name": "14th & V St NW",
+        "st_lat": 38.9176,
+        "st_long": -77.0321,
+        "st_capacity": 27
+    },
+    {
+        "st_id": 31102,
+        "st_name": "11th & Kenyon St NW",
+        "st_lat": 38.929464,
+        "st_long": -77.027822,
+        "st_capacity": 27
+    },
+    {
+        "st_id": 31103,
+        "st_name": "16th & Harvard St NW",
+        "st_lat": 38.926088,
+        "st_long": -77.036536,
+        "st_capacity": 33
+    },
+    {
+        "st_id": 31104,
+        "st_name": "Adams Mill & Columbia Rd NW",
+        "st_lat": 38.922925,
+        "st_long": -77.042581,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31105,
+        "st_name": "14th & Harvard St NW",
+        "st_lat": 38.9268,
+        "st_long": -77.0322,
+        "st_capacity": 17
+    },
+    {
+        "st_id": 31106,
+        "st_name": "Calvert & Biltmore St NW",
+        "st_lat": 38.923203,
+        "st_long": -77.047637,
+        "st_capacity": 23
+    },
+    {
+        "st_id": 31107,
+        "st_name": "Lamont & Mt Pleasant NW",
+        "st_lat": 38.9319,
+        "st_long": -77.0388,
+        "st_capacity": 19
+    },
+    {
+        "st_id": 31108,
+        "st_name": "4th & M St SW",
+        "st_lat": 38.8767,
+        "st_long": -77.0178,
+        "st_capacity": 23
+    },
+    {
+        "st_id": 31201,
+        "st_name": "15th & P St NW",
+        "st_lat": 38.90985,
+        "st_long": -77.034438,
+        "st_capacity": 16
+    },
+    {
+        "st_id": 31202,
+        "st_name": "14th & R St NW",
+        "st_lat": 38.912682,
+        "st_long": -77.031681,
+        "st_capacity": 14
+    },
+    {
+        "st_id": 31203,
+        "st_name": "14th & Rhode Island Ave NW",
+        "st_lat": 38.9086,
+        "st_long": -77.0323,
+        "st_capacity": 23
+    },
+    {
+        "st_id": 31204,
+        "st_name": "20th & E St NW",
+        "st_lat": 38.8963,
+        "st_long": -77.045,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31205,
+        "st_name": "21st & I St NW",
+        "st_lat": 38.9008,
+        "st_long": -77.047,
+        "st_capacity": 35
+    },
+    {
+        "st_id": 31400,
+        "st_name": "Georgia & New Hampshire Ave NW",
+        "st_lat": 38.936043,
+        "st_long": -77.024649,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31401,
+        "st_name": "14th St & Spring Rd NW",
+        "st_lat": 38.9375,
+        "st_long": -77.0328,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 31502,
+        "st_name": "John McCormack Dr & Michigan Ave NE",
+        "st_lat": 38.9346,
+        "st_long": -76.9955,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 31600,
+        "st_name": "5th & K St NW",
+        "st_lat": 38.90304,
+        "st_long": -77.019027,
+        "st_capacity": 19
+    },
+    {
+        "st_id": 31601,
+        "st_name": "19th & East Capitol St SE",
+        "st_lat": 38.8896,
+        "st_long": -76.9769,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31602,
+        "st_name": "Park Rd & Holmead Pl NW",
+        "st_lat": 38.9308,
+        "st_long": -77.0315,
+        "st_capacity": 19
+    },
+    {
+        "st_id": 31700,
+        "st_name": "Good Hope & Naylor Rd SE",
+        "st_lat": 38.8601,
+        "st_long": -76.9672,
+        "st_capacity": 10
+    },
+    {
+        "st_id": 31305,
+        "st_name": "Connecticut Ave & Newark St NW / Cleveland Park",
+        "st_lat": 38.934267,
+        "st_long": -77.057979,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 31702,
+        "st_name": "Randle Circle & Minnesota Ave SE",
+        "st_lat": 38.878,
+        "st_long": -76.9607,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 31703,
+        "st_name": "Minnesota Ave Metro/DOES",
+        "st_lat": 38.897063,
+        "st_long": -76.947446,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 31801,
+        "st_name": "Anacostia Metro",
+        "st_lat": 38.862669,
+        "st_long": -76.994637,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 31802,
+        "st_name": "Good Hope Rd & MLK Ave SE",
+        "st_lat": 38.867373,
+        "st_long": -76.988039,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 31206,
+        "st_name": "19th & E Street NW",
+        "st_lat": 38.8952,
+        "st_long": -77.0436,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 31500,
+        "st_name": "4th St & Rhode Island Ave NE",
+        "st_lat": 38.919488,
+        "st_long": -77.000624,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 31111,
+        "st_name": "10th & U St NW",
+        "st_lat": 38.9172,
+        "st_long": -77.0259,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31207,
+        "st_name": "Georgia Ave and Fairmont St NW",
+        "st_lat": 38.9249,
+        "st_long": -77.0222,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 31209,
+        "st_name": "1st & N St SE",
+        "st_lat": 38.8743,
+        "st_long": -77.0057,
+        "st_capacity": 39
+    },
+    {
+        "st_id": 31110,
+        "st_name": "20th St & Florida Ave NW",
+        "st_lat": 38.9154,
+        "st_long": -77.0446,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31109,
+        "st_name": "7th & T St NW",
+        "st_lat": 38.9155,
+        "st_long": -77.0222,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31013,
+        "st_name": "23rd & Eads St",
+        "st_lat": 38.853613,
+        "st_long": -77.053535,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 31208,
+        "st_name": "M St & New Jersey Ave SE",
+        "st_lat": 38.8763,
+        "st_long": -77.0037,
+        "st_capacity": 17
+    },
+    {
+        "st_id": 31200,
+        "st_name": "Massachusetts Ave & Dupont Circle NW",
+        "st_lat": 38.9101,
+        "st_long": -77.0444,
+        "st_capacity": 42
+    },
+    {
+        "st_id": 31603,
+        "st_name": "1st & M St NE",
+        "st_lat": 38.9057,
+        "st_long": -77.0056,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31212,
+        "st_name": "21st & M St NW",
+        "st_lat": 38.90534,
+        "st_long": -77.046774,
+        "st_capacity": 19
+    },
+    {
+        "st_id": 31213,
+        "st_name": "17th & K St NW",
+        "st_lat": 38.90276,
+        "st_long": -77.03863,
+        "st_capacity": 19
+    },
+    {
+        "st_id": 31604,
+        "st_name": "3rd & H St NW",
+        "st_lat": 38.899408,
+        "st_long": -77.015289,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31605,
+        "st_name": "3rd & D St SE",
+        "st_lat": 38.8851,
+        "st_long": -77.0023,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 31606,
+        "st_name": "Potomac & Pennsylvania Ave SE",
+        "st_lat": 38.8803,
+        "st_long": -76.9862,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31607,
+        "st_name": "14th & D St SE",
+        "st_lat": 38.884,
+        "st_long": -76.9861,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31214,
+        "st_name": "17th & Corcoran St NW",
+        "st_lat": 38.9121,
+        "st_long": -77.0387,
+        "st_capacity": 18
+    },
+    {
+        "st_id": 31300,
+        "st_name": "Van Ness Metro / UDC",
+        "st_lat": 38.944551,
+        "st_long": -77.063896,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31503,
+        "st_name": "Florida Ave & R St NW",
+        "st_lat": 38.9126,
+        "st_long": -77.0135,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31608,
+        "st_name": "8th & Eye St SE / Barracks Row",
+        "st_lat": 38.8792,
+        "st_long": -76.9953,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 31301,
+        "st_name": "Ward Circle / American University",
+        "st_lat": 38.938736,
+        "st_long": -77.087171,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31302,
+        "st_name": "Idaho Ave & Newark St NW [on 2nd District patio]",
+        "st_lat": 38.934751,
+        "st_long": -77.074647,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31402,
+        "st_name": "14th St Heights / 14th & Crittenden St NW",
+        "st_lat": 38.947774,
+        "st_long": -77.032818,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 31804,
+        "st_name": "Anacostia Library",
+        "st_lat": 38.865784,
+        "st_long": -76.9784,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 31805,
+        "st_name": "Pennsylvania & Minnesota Ave SE",
+        "st_lat": 38.873057,
+        "st_long": -76.971015,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 31610,
+        "st_name": "Eastern Market / 7th & North Carolina Ave SE",
+        "st_lat": 38.886952,
+        "st_long": -76.996806,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31216,
+        "st_name": "McPherson Square / 14th & H St NW",
+        "st_lat": 38.899641,
+        "st_long": -77.032005,
+        "st_capacity": 19
+    },
+    {
+        "st_id": 31705,
+        "st_name": "Benning Branch Library",
+        "st_lat": 38.894,
+        "st_long": -76.947974,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 31217,
+        "st_name": "USDA / 12th & Independence Ave SW",
+        "st_lat": 38.887237,
+        "st_long": -77.028226,
+        "st_capacity": 39
+    },
+    {
+        "st_id": 31215,
+        "st_name": "Georgetown Harbor / 30th St NW",
+        "st_lat": 38.9022212,
+        "st_long": -77.059219,
+        "st_capacity": 19
+    },
+    {
+        "st_id": 31501,
+        "st_name": "12th & Newton St NE",
+        "st_lat": 38.933668,
+        "st_long": -76.991016,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 31220,
+        "st_name": "US Dept of State / Virginia Ave & 21st St NW",
+        "st_lat": 38.894919,
+        "st_long": -77.046587,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31218,
+        "st_name": "L'Enfant Plaza / 7th & C St SW",
+        "st_lat": 38.886266,
+        "st_long": -77.022241,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31219,
+        "st_name": "10th St & Constitution Ave NW",
+        "st_lat": 38.893028,
+        "st_long": -77.026013,
+        "st_capacity": 31
+    },
+    {
+        "st_id": 31211,
+        "st_name": "Kennedy Center",
+        "st_lat": 38.895184,
+        "st_long": -77.054845,
+        "st_capacity": 10
+    },
+    {
+        "st_id": 31613,
+        "st_name": "Eastern Market Metro / Pennsylvania Ave & 7th St SE",
+        "st_lat": 38.884,
+        "st_long": -76.995397,
+        "st_capacity": 18
+    },
+    {
+        "st_id": 31221,
+        "st_name": "18th & M St NW",
+        "st_lat": 38.904742,
+        "st_long": -77.041606,
+        "st_capacity": 19
+    },
+    {
+        "st_id": 31303,
+        "st_name": "Tenleytown / Wisconsin Ave & Albemarle St NW",
+        "st_lat": 38.947607,
+        "st_long": -77.079382,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31611,
+        "st_name": "13th & H St NE",
+        "st_lat": 38.9003,
+        "st_long": -76.9882,
+        "st_capacity": 26
+    },
+    {
+        "st_id": 31620,
+        "st_name": "5th & F St NW",
+        "st_lat": 38.897222,
+        "st_long": -77.019347,
+        "st_capacity": 31
+    },
+    {
+        "st_id": 31222,
+        "st_name": "New York Ave & 15th St NW",
+        "st_lat": 38.8991,
+        "st_long": -77.0337,
+        "st_capacity": 14
+    },
+    {
+        "st_id": 31223,
+        "st_name": "Convention Center / 7th & M St NW",
+        "st_lat": 38.90572,
+        "st_long": -77.022264,
+        "st_capacity": 19
+    },
+    {
+        "st_id": 31112,
+        "st_name": "Harvard St & Adams Mill Rd NW",
+        "st_lat": 38.927872,
+        "st_long": -77.043358,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31224,
+        "st_name": "19th & L St NW",
+        "st_lat": 38.903407,
+        "st_long": -77.043648,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31225,
+        "st_name": "C & O Canal & Wisconsin Ave NW",
+        "st_lat": 38.90375,
+        "st_long": -77.06269,
+        "st_capacity": 23
+    },
+    {
+        "st_id": 31609,
+        "st_name": "6th & Water St SW / SW Waterfront",
+        "st_lat": 38.87675,
+        "st_long": -77.02127,
+        "st_capacity": 19
+    },
+    {
+        "st_id": 31612,
+        "st_name": "D St & Maryland Ave NE",
+        "st_lat": 38.894758,
+        "st_long": -76.997114,
+        "st_capacity": 23
+    },
+    {
+        "st_id": 31226,
+        "st_name": "34th St & Wisconsin Ave NW",
+        "st_lat": 38.916442,
+        "st_long": -77.0682,
+        "st_capacity": 10
+    },
+    {
+        "st_id": 31227,
+        "st_name": "13th St & New York Ave NW",
+        "st_lat": 38.900283,
+        "st_long": -77.029822,
+        "st_capacity": 21
+    },
+    {
+        "st_id": 31228,
+        "st_name": "8th & H St NW",
+        "st_lat": 38.8997,
+        "st_long": -77.023086,
+        "st_capacity": 33
+    },
+    {
+        "st_id": 31504,
+        "st_name": "10th & Monroe St NE",
+        "st_lat": 38.932514,
+        "st_long": -76.992889,
+        "st_capacity": 10
+    },
+    {
+        "st_id": 31505,
+        "st_name": "Eckington Pl & Q St NE",
+        "st_lat": 38.910972,
+        "st_long": -77.00495,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 31615,
+        "st_name": "6th & H St NE",
+        "st_lat": 38.900384,
+        "st_long": -76.99831,
+        "st_capacity": 23
+    },
+    {
+        "st_id": 31616,
+        "st_name": "3rd & H St NE",
+        "st_lat": 38.900412,
+        "st_long": -77.001949,
+        "st_capacity": 17
+    },
+    {
+        "st_id": 31617,
+        "st_name": "Bladensburg Rd & Benning Rd NE",
+        "st_lat": 38.900413,
+        "st_long": -76.982872,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31618,
+        "st_name": "4th & East Capitol St NE",
+        "st_lat": 38.889955,
+        "st_long": -77.000349,
+        "st_capacity": 10
+    },
+    {
+        "st_id": 31619,
+        "st_name": "Lincoln Park / 13th & East Capitol St NE",
+        "st_lat": 38.890461,
+        "st_long": -76.988355,
+        "st_capacity": 23
+    },
+    {
+        "st_id": 31701,
+        "st_name": "Branch & Pennsylvania Ave SE",
+        "st_lat": 38.8692,
+        "st_long": -76.9599,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 31622,
+        "st_name": "13th & D St NE",
+        "st_lat": 38.894832,
+        "st_long": -76.987633,
+        "st_capacity": 31
+    },
+    {
+        "st_id": 31229,
+        "st_name": "New Hampshire Ave & T St NW",
+        "st_lat": 38.91554,
+        "st_long": -77.03818,
+        "st_capacity": 21
+    },
+    {
+        "st_id": 31230,
+        "st_name": "Metro Center / 12th & G St NW",
+        "st_lat": 38.898364,
+        "st_long": -77.027869,
+        "st_capacity": 29
+    },
+    {
+        "st_id": 31231,
+        "st_name": "14th & D St NW / Ronald Reagan Building",
+        "st_lat": 38.894514,
+        "st_long": -77.031617,
+        "st_capacity": 25
+    },
+    {
+        "st_id": 31232,
+        "st_name": "7th & F St NW / National Portrait Gallery",
+        "st_lat": 38.897324,
+        "st_long": -77.022322,
+        "st_capacity": 19
+    },
+    {
+        "st_id": 31233,
+        "st_name": "17th & K St NW / Farragut Square",
+        "st_lat": 38.902061,
+        "st_long": -77.038322,
+        "st_capacity": 27
+    },
+    {
+        "st_id": 31234,
+        "st_name": "20th & O St NW / Dupont South",
+        "st_lat": 38.908905,
+        "st_long": -77.04478,
+        "st_capacity": 19
+    },
+    {
+        "st_id": 31621,
+        "st_name": "4th & D St NW / Judiciary Square",
+        "st_lat": 38.895344,
+        "st_long": -77.016106,
+        "st_capacity": 14
+    },
+    {
+        "st_id": 31235,
+        "st_name": "19th St & Constitution Ave NW",
+        "st_lat": 38.8923,
+        "st_long": -77.0436,
+        "st_capacity": 34
+    },
+    {
+        "st_id": 31236,
+        "st_name": "37th & O St NW / Georgetown University",
+        "st_lat": 38.90774,
+        "st_long": -77.071652,
+        "st_capacity": 23
+    },
+    {
+        "st_id": 31614,
+        "st_name": "11th & H St NE",
+        "st_lat": 38.899983,
+        "st_long": -76.991383,
+        "st_capacity": 19
+    },
+    {
+        "st_id": 31237,
+        "st_name": "25th St & Pennsylvania Ave NW",
+        "st_lat": 38.903827,
+        "st_long": -77.053485,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31623,
+        "st_name": "Columbus Circle / Union Station",
+        "st_lat": 38.89696,
+        "st_long": -77.00493,
+        "st_capacity": 29
+    },
+    {
+        "st_id": 31624,
+        "st_name": "North Capitol St & F St NW",
+        "st_lat": 38.897446,
+        "st_long": -77.009888,
+        "st_capacity": 22
+    },
+    {
+        "st_id": 31266,
+        "st_name": "11th & M St NW",
+        "st_lat": 38.905607,
+        "st_long": -77.027137,
+        "st_capacity": 18
+    },
+    {
+        "st_id": 31304,
+        "st_name": "36th & Calvert St NW / Glover Park",
+        "st_lat": 38.922581,
+        "st_long": -77.070334,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31238,
+        "st_name": "14th & G St NW",
+        "st_lat": 38.898069,
+        "st_long": -77.031823,
+        "st_capacity": 22
+    },
+    {
+        "st_id": 31052,
+        "st_name": "Potomac Ave & 35th St S",
+        "st_lat": 38.844015,
+        "st_long": -77.050537,
+        "st_capacity": 23
+    },
+    {
+        "st_id": 31240,
+        "st_name": "Ohio Dr & West Basin Dr SW / MLK & FDR Memorials",
+        "st_lat": 38.88412,
+        "st_long": -77.04657,
+        "st_capacity": 23
+    },
+    {
+        "st_id": 31262,
+        "st_name": "11th & F St NW",
+        "st_lat": 38.897857,
+        "st_long": -77.026975,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31260,
+        "st_name": "23rd & E St NW",
+        "st_lat": 38.896104,
+        "st_long": -77.049882,
+        "st_capacity": 18
+    },
+    {
+        "st_id": 31014,
+        "st_name": "Lynn & 19th St North",
+        "st_lat": 38.897315,
+        "st_long": -77.070993,
+        "st_capacity": 19
+    },
+    {
+        "st_id": 31015,
+        "st_name": "Rosslyn Metro / Wilson Blvd & Ft Myer Dr",
+        "st_lat": 38.8946,
+        "st_long": -77.072305,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31016,
+        "st_name": "Clarendon Blvd & Pierce St",
+        "st_lat": 38.893648,
+        "st_long": -77.076701,
+        "st_capacity": 10
+    },
+    {
+        "st_id": 31017,
+        "st_name": "Court House Metro / Wilson Blvd & N Uhle St",
+        "st_lat": 38.891696,
+        "st_long": -77.0846,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31018,
+        "st_name": "N Rhodes & 16th St N",
+        "st_lat": 38.892164,
+        "st_long": -77.079375,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 31706,
+        "st_name": "Fairfax Village",
+        "st_lat": 38.86559,
+        "st_long": -76.952103,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31261,
+        "st_name": "21st St & Constitution Ave NW",
+        "st_lat": 38.892459,
+        "st_long": -77.046567,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31019,
+        "st_name": "Wilson Blvd & N Edgewood St",
+        "st_lat": 38.889,
+        "st_long": -77.0925,
+        "st_capacity": 14
+    },
+    {
+        "st_id": 31113,
+        "st_name": "Columbia Rd & Belmont St NW",
+        "st_lat": 38.920669,
+        "st_long": -77.04368,
+        "st_capacity": 19
+    },
+    {
+        "st_id": 31239,
+        "st_name": "17th & Rhode Island Ave NW",
+        "st_lat": 38.906602,
+        "st_long": -77.038785,
+        "st_capacity": 23
+    },
+    {
+        "st_id": 31241,
+        "st_name": "Thomas Circle",
+        "st_lat": 38.9059,
+        "st_long": -77.0325,
+        "st_capacity": 33
+    },
+    {
+        "st_id": 31020,
+        "st_name": "Wilson Blvd & Franklin Rd",
+        "st_lat": 38.8904,
+        "st_long": -77.0889,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 31021,
+        "st_name": "Clarendon Blvd & N Fillmore St",
+        "st_lat": 38.8881,
+        "st_long": -77.09308,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31022,
+        "st_name": "Clarendon Metro / Wilson Blvd & N Highland St",
+        "st_lat": 38.88786,
+        "st_long": -77.094875,
+        "st_capacity": 17
+    },
+    {
+        "st_id": 31242,
+        "st_name": "18th St & Pennsylvania Ave NW",
+        "st_lat": 38.89968,
+        "st_long": -77.041539,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31243,
+        "st_name": "Maryland & Independence Ave SW",
+        "st_lat": 38.887299,
+        "st_long": -77.018939,
+        "st_capacity": 38
+    },
+    {
+        "st_id": 31244,
+        "st_name": "4th & E St SW",
+        "st_lat": 38.88412,
+        "st_long": -77.017445,
+        "st_capacity": 19
+    },
+    {
+        "st_id": 31625,
+        "st_name": "3rd & G St SE",
+        "st_lat": 38.881185,
+        "st_long": -77.001828,
+        "st_capacity": 18
+    },
+    {
+        "st_id": 31245,
+        "st_name": "7th & R St NW / Shaw Library",
+        "st_lat": 38.912719,
+        "st_long": -77.022155,
+        "st_capacity": 14
+    },
+    {
+        "st_id": 31404,
+        "st_name": "9th & Upshur St NW",
+        "st_lat": 38.9418,
+        "st_long": -77.0251,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31506,
+        "st_name": "1st & Rhode Island Ave NW",
+        "st_lat": 38.915417,
+        "st_long": -77.012289,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31115,
+        "st_name": "Columbia Rd & Georgia Ave NW",
+        "st_lat": 38.928156,
+        "st_long": -77.02344,
+        "st_capacity": 19
+    },
+    {
+        "st_id": 31116,
+        "st_name": "California St & Florida Ave NW",
+        "st_lat": 38.917761,
+        "st_long": -77.04062,
+        "st_capacity": 19
+    },
+    {
+        "st_id": 31707,
+        "st_name": "Benning Rd & East Capitol St NE / Benning Rd Metro",
+        "st_lat": 38.889935,
+        "st_long": -76.93723,
+        "st_capacity": 19
+    },
+    {
+        "st_id": 31307,
+        "st_name": "3000 Connecticut Ave NW / National Zoo",
+        "st_lat": 38.930282,
+        "st_long": -77.055599,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31708,
+        "st_name": "Anacostia Ave & Benning Rd NE / River Terrace",
+        "st_lat": 38.896544,
+        "st_long": -76.96012,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31246,
+        "st_name": "M St & Pennsylvania Ave NW",
+        "st_lat": 38.905126,
+        "st_long": -77.056887,
+        "st_capacity": 18
+    },
+    {
+        "st_id": 31626,
+        "st_name": "15th St & Massachusetts Ave SE",
+        "st_lat": 38.88732,
+        "st_long": -76.983569,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31806,
+        "st_name": "Congress Heights Metro",
+        "st_lat": 38.844711,
+        "st_long": -76.987823,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31035,
+        "st_name": "N Quincy St & Glebe Rd",
+        "st_lat": 38.876393,
+        "st_long": -77.107735,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 31033,
+        "st_name": "Wilson Blvd & N Oakland St",
+        "st_lat": 38.8815,
+        "st_long": -77.10396,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 31029,
+        "st_name": "N Veitch & 20th St N",
+        "st_lat": 38.896923,
+        "st_long": -77.086502,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31263,
+        "st_name": "11th & K St NW",
+        "st_lat": 38.90268,
+        "st_long": -77.02674,
+        "st_capacity": 19
+    },
+    {
+        "st_id": 31023,
+        "st_name": "Fairfax Dr & Wilson Blvd",
+        "st_lat": 38.885801,
+        "st_long": -77.097745,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 31027,
+        "st_name": "Key Blvd & N Quinn St",
+        "st_lat": 38.896015,
+        "st_long": -77.078107,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 31628,
+        "st_name": "1st & K St SE",
+        "st_lat": 38.87861,
+        "st_long": -77.006004,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31306,
+        "st_name": "39th & Calvert St NW / Stoddert",
+        "st_lat": 38.922649,
+        "st_long": -77.077271,
+        "st_capacity": 19
+    },
+    {
+        "st_id": 31507,
+        "st_name": "1st & Washington Hospital Center NW",
+        "st_lat": 38.928743,
+        "st_long": -77.012457,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31024,
+        "st_name": "Virginia Square Metro / N Monroe St & 9th St N",
+        "st_lat": 38.882788,
+        "st_long": -77.103148,
+        "st_capacity": 18
+    },
+    {
+        "st_id": 31025,
+        "st_name": "Central Library / N Quincy St & 10th St N",
+        "st_lat": 38.88397,
+        "st_long": -77.10783,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 31026,
+        "st_name": "Washington Blvd & 10th St N",
+        "st_lat": 38.884734,
+        "st_long": -77.093485,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31247,
+        "st_name": "Jefferson Dr & 14th St SW",
+        "st_lat": 38.888553,
+        "st_long": -77.032429,
+        "st_capacity": 22
+    },
+    {
+        "st_id": 31248,
+        "st_name": "Smithsonian / Jefferson Dr & 12th St SW",
+        "st_lat": 38.888767,
+        "st_long": -77.02858,
+        "st_capacity": 21
+    },
+    {
+        "st_id": 31036,
+        "st_name": "George Mason Dr & Wilson Blvd",
+        "st_lat": 38.87887,
+        "st_long": -77.1207,
+        "st_capacity": 14
+    },
+    {
+        "st_id": 31264,
+        "st_name": "6th St & Indiana Ave NW",
+        "st_lat": 38.894573,
+        "st_long": -77.01994,
+        "st_capacity": 17
+    },
+    {
+        "st_id": 31028,
+        "st_name": "N Veitch & Key Blvd",
+        "st_lat": 38.893241,
+        "st_long": -77.086045,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 31030,
+        "st_name": "N Adams St & Lee Hwy",
+        "st_lat": 38.89593,
+        "st_long": -77.089006,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31031,
+        "st_name": "15th & N Scott St",
+        "st_lat": 38.89054,
+        "st_long": -77.08095,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 31032,
+        "st_name": "Washington Blvd & 7th St N",
+        "st_lat": 38.880834,
+        "st_long": -77.091129,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 31037,
+        "st_name": "Ballston Metro / N Stuart & 9th St N",
+        "st_lat": 38.881044,
+        "st_long": -77.111768,
+        "st_capacity": 19
+    },
+    {
+        "st_id": 31034,
+        "st_name": "N Randolph St & Fairfax Dr",
+        "st_lat": 38.882629,
+        "st_long": -77.109366,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 31249,
+        "st_name": "Jefferson Memorial",
+        "st_lat": 38.879819,
+        "st_long": -77.037413,
+        "st_capacity": 22
+    },
+    {
+        "st_id": 31803,
+        "st_name": "Good Hope Rd & 14th St SE",
+        "st_lat": 38.866611,
+        "st_long": -76.985238,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31038,
+        "st_name": "Glebe Rd & 11th St N",
+        "st_lat": 38.883921,
+        "st_long": -77.116817,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 31039,
+        "st_name": "N Quincy St & Wilson Blvd",
+        "st_lat": 38.880151,
+        "st_long": -77.107673,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 31040,
+        "st_name": "Fairfax Dr & Kenmore St",
+        "st_lat": 38.884616,
+        "st_long": -77.10108,
+        "st_capacity": 9
+    },
+    {
+        "st_id": 31508,
+        "st_name": "Gallaudet / 8th St & Florida Ave NE",
+        "st_lat": 38.90509,
+        "st_long": -76.9941,
+        "st_capacity": 19
+    },
+    {
+        "st_id": 31250,
+        "st_name": "20th & L St NW",
+        "st_lat": 38.903584,
+        "st_long": -77.044789,
+        "st_capacity": 19
+    },
+    {
+        "st_id": 31251,
+        "st_name": "12th & L St NW",
+        "st_lat": 38.903819,
+        "st_long": -77.0284,
+        "st_capacity": 18
+    },
+    {
+        "st_id": 31252,
+        "st_name": "21st St & Pennsylvania Ave NW",
+        "st_lat": 38.901539,
+        "st_long": -77.046564,
+        "st_capacity": 18
+    },
+    {
+        "st_id": 31253,
+        "st_name": "19th & K St NW",
+        "st_lat": 38.902204,
+        "st_long": -77.04337,
+        "st_capacity": 23
+    },
+    {
+        "st_id": 31041,
+        "st_name": "Prince St & Union St",
+        "st_lat": 38.803124,
+        "st_long": -77.040363,
+        "st_capacity": 19
+    },
+    {
+        "st_id": 31042,
+        "st_name": "Market Square / King St & Royal St",
+        "st_lat": 38.804718,
+        "st_long": -77.043363,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31043,
+        "st_name": "Saint Asaph St & Pendleton St",
+        "st_lat": 38.810743,
+        "st_long": -77.044664,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31044,
+        "st_name": "King St & Patrick St",
+        "st_lat": 38.805317,
+        "st_long": -77.049883,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31254,
+        "st_name": "15th & K St NW",
+        "st_lat": 38.902,
+        "st_long": -77.03353,
+        "st_capacity": 18
+    },
+    {
+        "st_id": 31045,
+        "st_name": "Commerce St & Fayette St",
+        "st_lat": 38.805648,
+        "st_long": -77.05293,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31046,
+        "st_name": "Henry St & Pendleton St",
+        "st_lat": 38.811456,
+        "st_long": -77.050276,
+        "st_capacity": 17
+    },
+    {
+        "st_id": 31047,
+        "st_name": "Braddock Rd Metro",
+        "st_lat": 38.814577,
+        "st_long": -77.052808,
+        "st_capacity": 19
+    },
+    {
+        "st_id": 31048,
+        "st_name": "King St Metro",
+        "st_lat": 38.805767,
+        "st_long": -77.06072,
+        "st_capacity": 19
+    },
+    {
+        "st_id": 31255,
+        "st_name": "24th & N St NW",
+        "st_lat": 38.9066,
+        "st_long": -77.05152,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31256,
+        "st_name": "10th & E St NW",
+        "st_lat": 38.895914,
+        "st_long": -77.026064,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31257,
+        "st_name": "22nd & I St NW / Foggy Bottom",
+        "st_lat": 38.90088,
+        "st_long": -77.048911,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31049,
+        "st_name": "Utah St & 11th St N",
+        "st_lat": 38.883669,
+        "st_long": -77.113905,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 31050,
+        "st_name": "Barton St & 10th St N",
+        "st_lat": 38.884961,
+        "st_long": -77.08777,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 31051,
+        "st_name": "Arlington Blvd & N Queen St",
+        "st_lat": 38.889365,
+        "st_long": -77.077294,
+        "st_capacity": 9
+    },
+    {
+        "st_id": 31258,
+        "st_name": "Lincoln Memorial",
+        "st_lat": 38.888251,
+        "st_long": -77.049426,
+        "st_capacity": 23
+    },
+    {
+        "st_id": 31259,
+        "st_name": "20th St & Virginia Ave NW",
+        "st_lat": 38.894722,
+        "st_long": -77.045128,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31265,
+        "st_name": "5th St & Massachusetts Ave NW",
+        "st_lat": 38.90093,
+        "st_long": -77.018677,
+        "st_capacity": 18
+    },
+    {
+        "st_id": 31308,
+        "st_name": "39th & Veazey St NW",
+        "st_lat": 38.943837,
+        "st_long": -77.077078,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31309,
+        "st_name": "Fessenden St & Wisconsin Ave NW",
+        "st_lat": 38.954812,
+        "st_long": -77.082426,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31627,
+        "st_name": "M St & Delaware Ave NE",
+        "st_lat": 38.905707,
+        "st_long": -77.003041,
+        "st_capacity": 23
+    },
+    {
+        "st_id": 31053,
+        "st_name": "Columbia Pike & S Courthouse Rd",
+        "st_lat": 38.863833,
+        "st_long": -77.080319,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31054,
+        "st_name": "Walter Reed Community Center / Walter Reed Dr & 16th St S",
+        "st_lat": 38.857803,
+        "st_long": -77.086733,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 31055,
+        "st_name": "28th St S & S Meade St",
+        "st_lat": 38.846222,
+        "st_long": -77.069275,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31114,
+        "st_name": "18th St & Wyoming Ave NW",
+        "st_lat": 38.918809,
+        "st_long": -77.041571,
+        "st_capacity": 23
+    },
+    {
+        "st_id": 31403,
+        "st_name": "5th & Kennedy St NW",
+        "st_lat": 38.956595,
+        "st_long": -77.019815,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31405,
+        "st_name": "Georgia Ave & Emerson St NW",
+        "st_lat": 38.949662,
+        "st_long": -77.027333,
+        "st_capacity": 19
+    },
+    {
+        "st_id": 31406,
+        "st_name": "14th & Upshur St NW",
+        "st_lat": 38.942016,
+        "st_long": -77.032652,
+        "st_capacity": 19
+    },
+    {
+        "st_id": 31407,
+        "st_name": "14th St & Colorado Ave NW",
+        "st_lat": 38.956432,
+        "st_long": -77.032947,
+        "st_capacity": 19
+    },
+    {
+        "st_id": 31056,
+        "st_name": "S Troy St & 26th St S",
+        "st_lat": 38.847977,
+        "st_long": -77.075104,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 31057,
+        "st_name": "S Four Mile Run Dr & S Shirlington Rd",
+        "st_lat": 38.8444,
+        "st_long": -77.085931,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 31058,
+        "st_name": "S Oakland St & Columbia Pike",
+        "st_lat": 38.860789,
+        "st_long": -77.09586,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 31059,
+        "st_name": "S Abingdon St & 36th St S",
+        "st_lat": 38.835213,
+        "st_long": -77.094295,
+        "st_capacity": 10
+    },
+    {
+        "st_id": 31060,
+        "st_name": "S Arlington Mill Dr & Campbell Ave",
+        "st_lat": 38.84232,
+        "st_long": -77.089555,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31061,
+        "st_name": "S Kenmore & 24th St S",
+        "st_lat": 38.848454,
+        "st_long": -77.084918,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 32006,
+        "st_name": "13th St & Eastern Ave",
+        "st_lat": 38.987,
+        "st_long": -77.029417,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31312,
+        "st_name": "Wisconsin Ave & O St NW",
+        "st_lat": 38.90849,
+        "st_long": -77.063586,
+        "st_capacity": 19
+    },
+    {
+        "st_id": 31062,
+        "st_name": "S George Mason Dr & 13th St S",
+        "st_lat": 38.854691,
+        "st_long": -77.100555,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 31310,
+        "st_name": "Connecticut & Nebraska Ave NW",
+        "st_lat": 38.955016,
+        "st_long": -77.069956,
+        "st_capacity": 23
+    },
+    {
+        "st_id": 31267,
+        "st_name": "17th St & Massachusetts Ave NW",
+        "st_lat": 38.908142,
+        "st_long": -77.038359,
+        "st_capacity": 18
+    },
+    {
+        "st_id": 31117,
+        "st_name": "15th & Euclid St NW",
+        "st_lat": 38.92333,
+        "st_long": -77.0352,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31629,
+        "st_name": "8th & East Capitol St NE",
+        "st_lat": 38.889988,
+        "st_long": -76.995193,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 31509,
+        "st_name": "New Jersey Ave & R St NW",
+        "st_lat": 38.912659,
+        "st_long": -77.017669,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31630,
+        "st_name": "15th & East Capitol St NE",
+        "st_lat": 38.889908,
+        "st_long": -76.983326,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 31631,
+        "st_name": "8th & F St NE",
+        "st_lat": 38.897274,
+        "st_long": -76.994749,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31510,
+        "st_name": "18th St & Rhode Island Ave NE",
+        "st_lat": 38.927095,
+        "st_long": -76.978924,
+        "st_capacity": 14
+    },
+    {
+        "st_id": 31632,
+        "st_name": "15th & F St NE",
+        "st_lat": 38.897195,
+        "st_long": -76.983575,
+        "st_capacity": 18
+    },
+    {
+        "st_id": 31511,
+        "st_name": "12th & Irving St NE",
+        "st_lat": 38.928644,
+        "st_long": -76.990955,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31709,
+        "st_name": "34th St & Minnesota Ave SE",
+        "st_lat": 38.884085,
+        "st_long": -76.957461,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 31800,
+        "st_name": "Alabama & MLK Ave SE",
+        "st_lat": 38.843222,
+        "st_long": -76.999388,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 31807,
+        "st_name": "Pleasant St & MLK Ave SE",
+        "st_lat": 38.863897,
+        "st_long": -76.990037,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 31512,
+        "st_name": "Neal St & Trinidad Ave NE",
+        "st_lat": 38.903732,
+        "st_long": -76.987211,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31268,
+        "st_name": "13th & U St NW",
+        "st_lat": 38.916794,
+        "st_long": -77.029779,
+        "st_capacity": 23
+    },
+    {
+        "st_id": 31063,
+        "st_name": "S George Mason Dr & Four Mile Run",
+        "st_lat": 38.852248,
+        "st_long": -77.105022,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 31064,
+        "st_name": "S Stafford & 34th St S",
+        "st_lat": 38.834108,
+        "st_long": -77.087323,
+        "st_capacity": 14
+    },
+    {
+        "st_id": 31065,
+        "st_name": "N Pershing Dr & Wayne St",
+        "st_lat": 38.880705,
+        "st_long": -77.08596,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 31066,
+        "st_name": "Columbia Pike & S Orme St",
+        "st_lat": 38.867262,
+        "st_long": -77.072315,
+        "st_capacity": 10
+    },
+    {
+        "st_id": 31269,
+        "st_name": "3rd St & Pennsylvania Ave SE",
+        "st_lat": 38.887378,
+        "st_long": -77.001955,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31270,
+        "st_name": "8th & D St NW",
+        "st_lat": 38.894851,
+        "st_long": -77.02324,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31118,
+        "st_name": "3rd & Elm St NW",
+        "st_lat": 38.917622,
+        "st_long": -77.01597,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31513,
+        "st_name": "Rhode Island Ave & V St NE",
+        "st_lat": 38.918155,
+        "st_long": -77.004746,
+        "st_capacity": 19
+    },
+    {
+        "st_id": 31271,
+        "st_name": "Constitution Ave & 2nd St NW/DOL",
+        "st_lat": 38.892275,
+        "st_long": -77.013917,
+        "st_capacity": 26
+    },
+    {
+        "st_id": 31272,
+        "st_name": "Washington & Independence Ave SW/HHS",
+        "st_lat": 38.88731,
+        "st_long": -77.01397,
+        "st_capacity": 25
+    },
+    {
+        "st_id": 31633,
+        "st_name": "Independence Ave & L'Enfant Plaza SW/DOE",
+        "st_lat": 38.887397,
+        "st_long": -77.026154,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31514,
+        "st_name": "Hamlin & 7th St NE",
+        "st_lat": 38.927497,
+        "st_long": -76.997194,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31067,
+        "st_name": "Columbia Pike & S Walter Reed Dr",
+        "st_lat": 38.862478,
+        "st_long": -77.086599,
+        "st_capacity": 12
+    },
+    {
+        "st_id": 31068,
+        "st_name": "Columbia Pike & S Dinwiddie St / Arlington Mill Community Center",
+        "st_lat": 38.856319,
+        "st_long": -77.11153,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31069,
+        "st_name": "Pershing & N George Mason Dr",
+        "st_lat": 38.871822,
+        "st_long": -77.107906,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 32001,
+        "st_name": "Fenton St & New York Ave",
+        "st_lat": 38.985404,
+        "st_long": -77.023082,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 32002,
+        "st_name": "Bethesda Ave & Arlington Blvd",
+        "st_lat": 38.981103,
+        "st_long": -77.097426,
+        "st_capacity": 19
+    },
+    {
+        "st_id": 32003,
+        "st_name": "Montgomery Ave & Waverly St",
+        "st_lat": 38.983838,
+        "st_long": -77.09221,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 32004,
+        "st_name": "Fallsgrove Blvd & Fallsgrove Dr",
+        "st_lat": 39.096312,
+        "st_long": -77.192672,
+        "st_capacity": 19
+    },
+    {
+        "st_id": 32005,
+        "st_name": "Traville Gateway Dr & Gudelsky Dr",
+        "st_lat": 39.093783,
+        "st_long": -77.202501,
+        "st_capacity": 19
+    },
+    {
+        "st_id": 32000,
+        "st_name": "Norfolk Ave & Fairmont St",
+        "st_lat": 38.988562,
+        "st_long": -77.096539,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 32007,
+        "st_name": "E Montgomery Ave & Maryland Ave",
+        "st_lat": 39.084125,
+        "st_long": -77.151291,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 32008,
+        "st_name": "Cordell & Norfolk Ave",
+        "st_lat": 38.98954,
+        "st_long": -77.098029,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 32009,
+        "st_name": "Frederick Ave & Horners Ln",
+        "st_lat": 39.094772,
+        "st_long": -77.145213,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 32010,
+        "st_name": "Philadelphia & Maple Ave",
+        "st_lat": 38.98128,
+        "st_long": -77.011336,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 32011,
+        "st_name": "Maple & Ritchie Ave",
+        "st_lat": 38.983627,
+        "st_long": -77.006311,
+        "st_capacity": 19
+    },
+    {
+        "st_id": 32012,
+        "st_name": "Silver Spring Metro/Colesville Rd & Wayne Ave",
+        "st_lat": 38.99521,
+        "st_long": -77.02918,
+        "st_capacity": 19
+    },
+    {
+        "st_id": 32013,
+        "st_name": "Montgomery & East Ln",
+        "st_lat": 38.983525,
+        "st_long": -77.095367,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 32014,
+        "st_name": "Friendship Hts Metro/Wisconsin Ave & Wisconsin Cir",
+        "st_lat": 38.961763,
+        "st_long": -77.085998,
+        "st_capacity": 18
+    },
+    {
+        "st_id": 31119,
+        "st_name": "14th & Belmont St NW",
+        "st_lat": 38.921074,
+        "st_long": -77.031887,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31634,
+        "st_name": "3rd & Tingey St SE",
+        "st_lat": 38.87501,
+        "st_long": -77.0024,
+        "st_capacity": 19
+    },
+    {
+        "st_id": 31120,
+        "st_name": "10th & Florida Ave NW",
+        "st_lat": 38.920387,
+        "st_long": -77.025672,
+        "st_capacity": 19
+    },
+    {
+        "st_id": 31635,
+        "st_name": "Potomac Ave & 8th St SE",
+        "st_lat": 38.876737,
+        "st_long": -76.994468,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 32015,
+        "st_name": "Crabbs Branch Way & Redland Rd",
+        "st_lat": 39.120045,
+        "st_long": -77.156985,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 32016,
+        "st_name": "Fallsgove Dr & W Montgomery Ave",
+        "st_lat": 39.099376,
+        "st_long": -77.188014,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 32017,
+        "st_name": "Monroe St & Monroe Pl",
+        "st_lat": 39.083705,
+        "st_long": -77.149443,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 32018,
+        "st_name": "Needwood Rd & Eagles Head Ct",
+        "st_lat": 39.123513,
+        "st_long": -77.15741,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 32019,
+        "st_name": "East West Hwy & Blair Mill Rd",
+        "st_lat": 38.990249,
+        "st_long": -77.02935,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 32020,
+        "st_name": "Crabbs Branch Way & Calhoun Pl",
+        "st_lat": 39.107709,
+        "st_long": -77.152072,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 32021,
+        "st_name": "47th & Elm St",
+        "st_lat": 38.982456,
+        "st_long": -77.091991,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 32022,
+        "st_name": "Garland Ave & Walden Rd",
+        "st_lat": 39.000578,
+        "st_long": -77.00149,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 32023,
+        "st_name": "Montgomery College/W Campus Dr & Mannakee St",
+        "st_lat": 39.095661,
+        "st_long": -77.159048,
+        "st_capacity": 20
+    },
+    {
+        "st_id": 32024,
+        "st_name": "Fenton St & Gist Ave",
+        "st_lat": 38.989724,
+        "st_long": -77.023854,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 32025,
+        "st_name": "Carroll & Westmoreland Ave",
+        "st_lat": 38.975,
+        "st_long": -77.01121,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 32026,
+        "st_name": "Carroll & Ethan Allen Ave",
+        "st_lat": 38.977933,
+        "st_long": -77.006472,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 32027,
+        "st_name": "Battery Ln & Trolley Trail",
+        "st_lat": 38.992375,
+        "st_long": -77.100104,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 32028,
+        "st_name": "Norfolk & Rugby Ave",
+        "st_lat": 38.990639,
+        "st_long": -77.100239,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 32029,
+        "st_name": "Offutt Ln & Chevy Chase Dr",
+        "st_lat": 38.977093,
+        "st_long": -77.094589,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 32030,
+        "st_name": "Broschart & Blackwell Rd",
+        "st_lat": 39.102099,
+        "st_long": -77.200322,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 32031,
+        "st_name": "Taft St & E Gude Dr",
+        "st_lat": 39.094103,
+        "st_long": -77.132954,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 32032,
+        "st_name": "Fleet St & Ritchie Pkwy",
+        "st_lat": 39.076331,
+        "st_long": -77.141378,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 32033,
+        "st_name": "Piccard & W Gude Dr",
+        "st_lat": 39.102212,
+        "st_long": -77.177091,
+        "st_capacity": 19
+    },
+    {
+        "st_id": 32034,
+        "st_name": "Ripley & Bonifant St",
+        "st_lat": 38.992679,
+        "st_long": -77.029457,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 32035,
+        "st_name": "Georgia Ave & Spring St",
+        "st_lat": 38.999388,
+        "st_long": -77.031555,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 32036,
+        "st_name": "Fenton St & Ellsworth Dr",
+        "st_lat": 38.997033,
+        "st_long": -77.025608,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 32037,
+        "st_name": "King Farm Blvd & Pleasant Dr",
+        "st_lat": 39.114688,
+        "st_long": -77.171487,
+        "st_capacity": 18
+    },
+    {
+        "st_id": 32038,
+        "st_name": "King Farm Blvd & Piccard Dr",
+        "st_lat": 39.110314,
+        "st_long": -77.182669,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31121,
+        "st_name": "Calvert St & Woodley Pl NW",
+        "st_lat": 38.923583,
+        "st_long": -77.050046,
+        "st_capacity": 19
+    },
+    {
+        "st_id": 31636,
+        "st_name": "New Jersey Ave & N St NW/Dunbar HS",
+        "st_lat": 38.90706,
+        "st_long": -77.015231,
+        "st_capacity": 18
+    },
+    {
+        "st_id": 31710,
+        "st_name": "Nannie Helen Burroughs Ave & 49th St NE",
+        "st_lat": 38.898536,
+        "st_long": -76.931862,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 31711,
+        "st_name": "Deanwood Rec Center",
+        "st_lat": 38.908473,
+        "st_long": -76.933099,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31273,
+        "st_name": "Hains Point/Buckeye & Ohio Dr SW",
+        "st_lat": 38.878433,
+        "st_long": -77.03023,
+        "st_capacity": 17
+    },
+    {
+        "st_id": 31070,
+        "st_name": "Arlington Blvd & Fillmore St",
+        "st_lat": 38.873755,
+        "st_long": -77.089233,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 31071,
+        "st_name": "Long Bridge Park/Long Bridge Dr & 6th St S",
+        "st_lat": 38.86646,
+        "st_long": -77.04826,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 32039,
+        "st_name": "Old Georgetown Rd & Southwick St",
+        "st_lat": 38.999634,
+        "st_long": -77.109647,
+        "st_capacity": 19
+    },
+    {
+        "st_id": 32040,
+        "st_name": "Friendship Blvd & Willard Ave",
+        "st_lat": 38.96115,
+        "st_long": -77.088659,
+        "st_capacity": 19
+    },
+    {
+        "st_id": 31637,
+        "st_name": "North Capitol St & G Pl NE",
+        "st_lat": 38.899703,
+        "st_long": -77.008911,
+        "st_capacity": 19
+    },
+    {
+        "st_id": 31072,
+        "st_name": "31st & Woodrow St S",
+        "st_lat": 38.837666,
+        "st_long": -77.09482,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 31073,
+        "st_name": "Washington Blvd & Walter Reed Dr",
+        "st_lat": 38.873219,
+        "st_long": -77.082104,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31074,
+        "st_name": "Thomas Jefferson Cmty Ctr / 2nd St S & Ivy",
+        "st_lat": 38.869675,
+        "st_long": -77.093586,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 31313,
+        "st_name": "Connecticut Ave & Tilden St NW",
+        "st_lat": 38.941154,
+        "st_long": -77.062036,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 32041,
+        "st_name": "Medical Center Dr & Key West Ave",
+        "st_lat": 39.103091,
+        "st_long": -77.196442,
+        "st_capacity": 14
+    },
+    {
+        "st_id": 32042,
+        "st_name": "Shady Grove Hospital",
+        "st_lat": 39.097636,
+        "st_long": -77.196636,
+        "st_capacity": 19
+    },
+    {
+        "st_id": 32043,
+        "st_name": "Veterans Pl & Pershing Dr",
+        "st_lat": 38.997445,
+        "st_long": -77.023894,
+        "st_capacity": 11
+    },
+    {
+        "st_id": 32044,
+        "st_name": "Rockville Metro East",
+        "st_lat": 39.085394,
+        "st_long": -77.145803,
+        "st_capacity": 13
+    },
+    {
+        "st_id": 31638,
+        "st_name": "1st & H St NW",
+        "st_lat": 38.900358,
+        "st_long": -77.012108,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 31515,
+        "st_name": "Fort Totten Metro",
+        "st_lat": 38.952369,
+        "st_long": -77.002721,
+        "st_capacity": 19
+    },
+    {
+        "st_id": 31408,
+        "st_name": "Takoma Metro",
+        "st_lat": 38.975219,
+        "st_long": -77.016855,
+        "st_capacity": 19
+    },
+    {
+        "st_id": 31516,
+        "st_name": "Rhode Island Ave Metro",
+        "st_lat": 38.920682,
+        "st_long": -76.995876,
+        "st_capacity": 19
+    },
+    {
+        "st_id": 31075,
+        "st_name": "Rolfe St & 9th St S",
+        "st_lat": 38.866471,
+        "st_long": -77.076131,
+        "st_capacity": 10
+    },
+    {
+        "st_id": 31076,
+        "st_name": "Shirlington Transit Center / S Quincy & Randolph St",
+        "st_lat": 38.839912,
+        "st_long": -77.087083,
+        "st_capacity": 15
+    },
+    {
+        "st_id": 32045,
+        "st_name": "Shady Grove Metro West",
+        "st_lat": 39.119765,
+        "st_long": -77.166093,
+        "st_capacity": 19
+    },
+    {
+        "st_id": 32046,
+        "st_name": "River Rd & Landy Ln",
+        "st_lat": 38.964992,
+        "st_long": -77.103381,
+        "st_capacity": 19
+    },
+    {
+        "st_id": 32047,
+        "st_name": "Rockville Metro West",
+        "st_lat": 39.084379,
+        "st_long": -77.146866,
+        "st_capacity": 19
+    }
+]

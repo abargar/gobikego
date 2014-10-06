@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Bike Sharing Analysis</title>
+
+<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.2/leaflet.css" />
+<link rel="stylesheet" href="styles/cupertino/jquery-ui-1.10.4.custom.min.css" />
+<link rel="stylesheet" href="styles/bikestyle.css" />
+</head>
+
+<body>
+<!-- <div id="ProgressBar">
+Loading Page...</div> -->
+<div id="tabs">
+<span id="page-title">GO BIKE GO</span>
+<br /><br />
+<ul>
+<li><a href="#tripViewer">TripViewer</a></li>
+<li><a href="#STDBSCAN">ST-DBSCAN</a></li>
+<li><a href="#maxClique">Max Clique</a></li>
+<li><a href="#louvain">Louvain</a></li>
+</ul>
+<div class="filters ui-widget-content" id="tripFilter">
+<label>User Type:
+<select id="user" name="user">
+<option value="all" selected>All </option>
+<option value="Registered">Subscriber</option>
+<option value="Casual">Casual </option>
+</select>
+</label><br />
+<label for="sex">Sex: 
+<select id="sex" name="sex">
+<option value="all" selected>All </option>
+<option value="Male">Male</option>
+<option value="Female">Female </option>
+</select>
+</label>
+<br /><br />
+<label for="birthyear">Birth Year:  <br />
+<div class="filter_slider"  id="birthyear-range"></div>
+	<input type="text" id="birthyear-start" readonly>
+	- 	<input type="text" id="birthyear-end" readonly>
+<br /><br />
+<label for="duration">Trip Duration: <br />
+<div class="filter_slider" id="duration-range"></div>
+<input type="text" id="duration-start" readonly>
+ - <input type="text" id="duration-end" readonly>
+</label>
+<br /><br /><br />
+</div>
+<div class="tab_option" id="tripViewer">
+<p class="tab_option_header">Custom View</p>
+<p>Show all trips corresponding to the given filters. </p>
+<input id="updateButton" 
+        type="button" 
+        value="View Trips" 
+        onclick="viewTrips()" />
+</div>
+<div class="tab_option" id="STDBSCAN">
+<p class="tab_option_header">Spatial-Temporal Density-Based Clustering</p>
+<p>Identifies patterns in trips based on similarities in time and place.  Uses ST-DBSCAN.</p>
+<p><span style="color: #EE3333;">Warning:</span> this algorithm takes a long time to run.</p>
+<input id="stdbscanButton" 
+        type="button" 
+        value="Run ST-DBSCAN" 
+        onclick="runSTDBSCAN()" />
+</div>
+<div class="tab_option" id="maxClique">
+<p class="tab_option_header">Max Clique Detection</p>
+<p>Identifies the largest group of stations where trips occur between each pair of stations.</p>
+<input id="maxcliqueButton" 
+        type="button" 
+        value="Run Max Clique" 
+        onclick="runMaxClique()" />
+</div>
+<div class="tab_option" id="louvain">
+<p class="tab_option_header">Community Detection</p>
+<p>Finds communities of stations based on higher-than-average connectedness. Uses Louvain algorithm.</p>
+<input id="louvainButton" 
+        type="button" 
+        value="Run Louvain" 
+        onclick="runLouvain()" />
+</div>
+</div>
+</div>
+<div class="city_container" id="city1_container">
+	<div class="city-details" id="city1_details">
+		<select class="city_options" id="city1_options" name = "city1_options" onchange="changeCity(city1)">
+			<option value="boston" default>Boston</option>
+			<option value="chicago">Chicago</option>
+			<option value="dc">Washington DC</option>
+		</select>
+		<br />
+		<span class="city_filters_msg" id="city1_filters_msg"></span>
+	</div>
+	<div class="city-specific-filter" id="city1_filters">
+		<input type="text" id="start-date1" class="city-specific-filter" readonly/>
+		 - <input type="text" id="end-date1" class="city-specific-filter" readonly/><br />
+		<input type="text" id="time-start1" class="city-specific-filter time-spinner" >
+		- 	<input type="text" id="time-end1" class="city-specific-filter time-spinner" >
+	</div>
+
+<br />
+	<div class="city_map" id="map1"></div>
+</div>
+
+<div class="city_container" id="city2_container">
+	<div class="city-details" id="city2_details">
+		<select class="city_options" id="city2_options" name = "city2_options" onchange="changeCity(city2)">
+			<option value="dc" default>Washington DC</option>
+			<option value="boston">Boston</option>
+			<option value="chicago">Chicago</option>
+		</select>
+		<br />
+		<span class="city_filters_msg" id="city2_filters_msg"></span>
+	</div>
+	<div class="city-specific-filter" id="city2_filters">
+		<input type="text" id="start-date2" class="city-specific-filter"  readonly/>
+		 - <input type="text" id="end-date2" class="city-specific-filter" readonly/><br />
+		<input type="text" id="time-start2" class="city-specific-filter time-spinner" >
+		- 	<input type="text" id="time-end2" class="city-specific-filter time-spinner" >
+	</div>
+<br />
+	<div  class="city_map" id="map2"></div>
+</div>
+
+
+<!-- <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.11.0.min.js"></script> -->
+<script src="scripts/lib/jquery-1.10.2.js"></script>
+<script src="scripts/lib/jquery-ui-1.10.4.custom.min.js"></script>
+<script src="scripts/lib/d3.js" charset="utf-8"></script>
+<script src="scripts/lib/colorbrewer.v1.min.js"></script> 
+<script src="scripts/lib/leaflet.js"></script>
+<script type="text/javascript" src="scripts/lib/cldr.min.js"></script>
+<script type="text/javascript" src="scripts/lib/supplemental.min.js"></script>
+<script type="text/javascript" src="scripts/lib/globalize.js"></script>
+<script type="text/javascript" src="scripts/lib/globalize.culture.de-DE.js"></script>
+<script type="text/javascript" src="scripts/lib/tile.stamen.js"></script>
+<script type="text/javascript" src="scripts/map_functions.js"></script>
+<script type="text/javascript" src="scripts/method_functions.js"></script>
+<script type="text/javascript" src="scripts/filter_functions.js"></script>
+<script>
+
+var cities = {
+"boston" : {'name': 'Boston', 'LatLng': [42.348, -71.08], 'zoom': 12, 'stations': "stations/hubway_2011_stations_info.json", 'start-date': "2011-07-28", 'end-date': "2012-10-01",'print_filters': "duration, user-type, age, sex"},
+"chicago" :  {'name': 'Chicago', 'LatLng': [41.8819, -87.6278], 'zoom': 11, 'stations': "stations/divvy_stations_info.json", 'start-date': "2013-06-28", 'end-date': "2013-12-31", 'print_filters': "duration, user-type, age, sex"},
+"dc" : {'name': 'Washington DC', 'LatLng': [38.89, -77.0367], 'zoom': 12, 'stations': "stations/capitalbikeshare_stations_info.json", 'start-date': "2011-01-01", 'end-date': "2011-12-31", 'print_filters': "duration, user-type, <del>age</del>, <del>sex</del>"}
+};
+var city1 = new city(1);
+city1['map'] = new L.Map(city1['map_id'], 
+		{
+    scrollWheelZoom: false,
+    doubleClickZoom: false,
+    boxZoom: false
+});
+var city2 = new city(2);
+city2['map'] = new L.Map(city2['map_id'], {
+    scrollWheelZoom: false,
+    doubleClickZoom: false,
+    boxZoom: false
+});
+updateMap(city1, cities["boston"]);
+updateMap(city2, cities["dc"]);
+
+window.onload = function () {
+};
+
+
+
+</script>
+
+</body>
+</html>

@@ -1,0 +1,266 @@
+body{
+	background-color: #555555;
+}
+
+div{
+	margin: 5px;
+	float: left;
+}
+
+span#page-title {
+	font-size: 25px;
+	text-align: center;
+	color: #3155FF;
+    font-weight: bolder;
+    margin: 15px;
+}
+
+input{
+	font-size: 14px;
+	width:43%;
+	height: 20px;
+	text-align: center;
+	font-weight: normal;
+	font-family: Lucida Console, Andale Mono, Consolas, Arial;
+	word-spacing: 2px;
+}
+
+input[type="button"]{
+	width: 80%;
+	margin-left: 10px;
+}
+
+del{
+	color: #EE3333;
+}
+
+select.city_options{
+	border: 0.5px solid;
+	font-family: Lucida Grande,Lucida Sans,Arial,sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+div.city-details{
+	width: 45%;
+	float: left;
+	text-align: left;
+}
+
+div.city-specific-filter{
+	width: 45%;
+	float: right;
+	text-align: right;
+	padding-right: 10px;
+}
+
+.city-specific-filter input{
+	font-size: 14px;
+	word-spacing: 2px;
+	font-family: Lucida Console, Andale Mono, Consolas, Arial;
+}
+
+
+.city_filters_msg {
+	font-size: 12px;
+	color: #6488FF;
+	font-family: arial;
+}
+
+.ui-spinner{
+	border: 1px solid #c0c0c0;
+	width: 44%;
+	background: #FFFFFF;
+	border-radius: 2px;
+}
+
+.ui-spinner-input{
+	width: 100%;
+}
+
+.ui-slider{
+	top: 0;
+	width: 100px;
+	height: 5px;
+	border: 1px solid #3155FF;
+	font-size: 14px;
+	word-spacing: 2px;
+	font-family: Lucida Console, Andale Mono, Consolas, Arial;
+}
+
+.ui-slider-horizontal {
+	top: 0;
+	width: 100px;
+	height: 5px;
+	border: 1px solid #2044FF;
+	background-color: #AAFFFF;
+}
+
+
+.ui-slider-horizontal .ui-slider-range{
+	background: #3155FF;	
+	height: 6px;
+	top: -0.6em;
+	left: -0.6em;
+}
+
+.ui-slider-horizontal .ui-slider-handle {
+	top: -0.2em;
+	margin-left: -0.2em;
+	width: 0.7em;
+	height: 0.7em;
+	border: 1px solid #2044FF;
+}
+
+
+/* city container CSS
+*/
+.city_container {
+	display: block;
+	height: 80%;
+	width: 40%;
+	z-index : 1;
+}
+
+.city_map {
+	height: 500px;
+	width:  100%; 
+	}
+
+	
+/* JQuery UI CSS
+*/
+
+/*this styling is currently borrowed from Keith Wood at http://keith-wood.name/uiTabs.html#tabs-min
+It is available for borrowing, but I plan to change it.*/
+
+div#tabs { 
+	height: 80%;
+	width: 15%;
+    background: #FFFFFF; 
+    border: 2px solid #3155FF;
+    padding: 2px; 
+}
+
+#tabs ul{
+
+
+}
+
+#tabs li{
+	float: left;
+	display: inline-block;
+	color: #c0c0c0;
+    font-size: 12px;
+    font-weight: bold;
+    font-family: Lucida Grande,Lucida Sans,Arial,sans-serif;
+}
+
+#tabs label {
+	float: left;
+}
+
+
+#tabs .ui-widget-content .ui-slider{
+	top: 0;
+	width: 65%;
+	margin-left: 15%;
+	height: 5px;
+	border: 1px solid #3155FF;
+}
+
+#tabs .ui-tabs-nav { 
+    background: transparent; 
+    border: none; 
+    border-bottom: 1px solid #c0c0c0; 
+    -moz-border-radius: 0px; 
+    -webkit-border-radius: 0px; 
+    border-radius: 0px; 
+} 
+#tabs .ui-tabs-nav .ui-state-default { 
+    background: transparent; 
+    border: none; 
+} 
+#tabs .ui-tabs-nav .ui-state-active { 
+    background: transparent no-repeat bottom center; 
+    border: none; 
+} 
+#tabs .ui-tabs-nav .ui-state-default a { 
+    color: #c0c0c0;
+    font-size: 16px;
+    font-weight: bold;
+} 
+#tabs .ui-tabs-nav .ui-state-active a { 
+    color: #3155FF;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.ui-tabs .ui-tabs-nav .ui-tabs-anchor {
+float: none;
+display: inline;
+padding: .5em 1em;
+text-decoration: none;
+}
+
+#tabs .ui-tabs-panel {
+	width:95%;
+}
+
+#tabs .ui-widget-content {
+	background : transparent;
+	border: 0px;
+	padding-right: 2px;
+	font-size: 14px;
+	margin-left: 5px;
+	width: 95%;
+}
+
+#tabs .tab_option{
+	margin-left: -10px;
+}
+
+#tabs .tab_option_header{
+	font-size 14px;
+	color: #3155FF;
+}
+	
+.ui-datepicker {
+font-size:12px;
+padding:8px;
+border:1px solid #ccc;
+background-color: #ffffff;
+z-index: 3;
+}
+ 
+.ui-datepicker table {
+width:100%;
+}
+ 
+.ui-datepicker table td {
+text-align:center;
+}
+ 
+.ui-datepicker a {
+cursor:pointer;
+text-decoration:none;
+}
+ 
+.ui-datepicker-prev {
+float:left;
+}
+ 
+.ui-datepicker-next {
+float:right;
+}
+ 
+.ui-datepicker-title {
+	text-align: center;
+	font-weight:bold;
+}
+
+.leaflet-container {
+	z-index: 1;
+}
+
+	
